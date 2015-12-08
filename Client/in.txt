@@ -1,0 +1,7 @@
+GET /server/hamada.png 
+GET /server/success.html
+GET /server/temp.txt 
+POST image.jpg 
+POST soura.png 
+POST one.txt 
+POST two.html 
